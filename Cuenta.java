@@ -47,7 +47,6 @@ class Cuenta {
     }
  
     //Getter que obtiene todos los datos de la cuenta bancaria en un List
-    //Se puede usar cualquier otra opción para devolver los datos
     public List<String> getDatosCuenta ()
     {
         List<String> datosCuenta = new ArrayList<>();
