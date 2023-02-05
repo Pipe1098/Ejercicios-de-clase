@@ -73,7 +73,7 @@ public class Banco {
 
         arr[0] = titular;
         arr[1] = saldo.toString();
-        entradaEscaner.close();
+        // entradaEscaner.close();
         return arr;
 
     }
